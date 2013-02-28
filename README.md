@@ -14,11 +14,11 @@ Well use the awesome open source tool git & github used and trusted by millions 
 2.5 hrs
 
 ##What will be covered: ##
-1) Importance of project management in teams 
-2) Hows of project managemt and collaboration tips
-3) Version controlling principles
-4) Setting up git and github 
-5) Basic and advanced workflow 
+1) Importance of project management in teams <br>
+2) Hows of project managemt and collaboration tips<br>
+3) Version controlling principles<br>
+4) Setting up git and github <br>
+5) Basic and advanced workflow <br>
 
 ##Requirements : ##
 
