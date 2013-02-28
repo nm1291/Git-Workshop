@@ -26,5 +26,5 @@ Windows or linux machine (prefer linux)
 Internet connection 
 
 ##License :##
-<small>Copyright ï¿½ 2013 Akash Devaraju akashdevaraju@gmail.com <br>
+<small>Copyright © 2013 Akash Devaraju akashdevaraju@gmail.com <br>
 Available under GNU General Public License version 3</small>
