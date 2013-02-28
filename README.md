@@ -2,10 +2,10 @@ Git Workshop
 =============
 
 ##Agenda :##
-Starting on a team project ? ... 
-Need to learn how to collaborate ? ...so it feels u are all in one place (even if all are in thier own comfy homes) ... 
-Need to protect your code so that a small untraceable change dosent blow up your entire system ? ...
-Well use the awesome open source tool git & github used and tused by millions worldwide :) ... 
+Starting on a team project ? ... <br>
+Need to learn how to collaborate ? ...so it feels u are all in one place (even if all are in thier own comfy homes) ... <br>
+Need to protect your code so that a small untraceable change dosent blow up your entire system ? ...<br>
+Well use the awesome open source tool git & github used and tused by millions worldwide :) ... <br>
 
 ##Date : ##
 9 March 2013
