@@ -34,7 +34,7 @@ Preferably bring your own laptops with Linux/Windows (Preferably Linux). <br>
 Lab computers can be used on First come basis. <br>
 Git should be installed. (Tutorial will be posted on Codeshack shortly). <br>
 
-#Registration: ##
+##Registration: ##
 
 Registration Fee: Rs.20/- <br>
 Register here: http://tinyurl.com/gitregister <br>
