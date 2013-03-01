@@ -37,8 +37,9 @@ Git should be installed. (Tutorial will be posted on Codeshack shortly). <br>
 #Registration: ##
 
 Registration Fee: Rs.20/- <br>
-Register here:  <br>
+Register here: http://tinyurl.com/gitregister <br>
 
+Open to students of Sir MVIT only.
 Certificates will be given to participants.<br>
 College Buses will ply as usual. <br>
 
