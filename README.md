@@ -24,9 +24,7 @@ In Part-II of this workshop, which will be conducted later this month, we will s
 
 For final and pre-final year students, git and github will help you and your team complete your projects with ease. <br>
 
-A github account on your resume will add a lot of weightage as recruiters can see the projects you have worked on <br>
-
-Find and clone projects and code you may be interested in <br>
+A github account on your resume will add a lot of weightage as companies can see the projects you have worked on <br>
 
 ##Requirements : ##
 
