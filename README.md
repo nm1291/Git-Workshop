@@ -6,10 +6,10 @@ Need to learn how to collaborate as a team from the comfort of your homes?? <br>
 Need to protect your code so that a small untraceable bug dosent blow up your entire project ?<br>
 Want to contribute your skills to open-source projects?? <br>
 Want to "show off" your code and projects and get recognised?? <br>
-Well use the awesome open source tool git & github used and trusted by millions worldwide including several organisations like :) ... <br>
+Well, use the awesome open source tools git & github used and trusted by millions worldwide including several open source projects like android, audacity, chromium, eclipse, firefox, reddit, tor, vlc and many more ... <br>
 
-##Date and Time : ##
-9 March 2013, 9am to 12 noon
+##Date Time and Venue: ##
+9 March 2013, 9am to 12 noon, NewBlock 007.
 
 ##What will be covered: ##
 1) Importance of project management in teams <br>
@@ -31,16 +31,17 @@ Find and clone projects and code you may be interested in <br>
 ##Requirements : ##
 
 Preferably bring your own laptops with Linux/Windows (Preferably Linux). <br>
+Lab computers can be used on First come basis. <br>
 Git should be installed. (Tutorial will be posted on Codeshack shortly). <br>
 
 #Registration: ##
 
 Registration Fee: Rs.20/- <br>
-Register here: <br>
+Register here:  <br>
 
 Certificates will be given to participants.<br>
 College Buses will ply as usual. <br>
 
 ##License :##
-<small>Copyright © 2013 Akash Devaraju akashdevaraju@gmail.com <br>
+<small>Copyright © 2013 Akash Devaraju akashdevaraju@gmail.com, Nikhil Mascarenhas nikhil.mascarenhas@gmail.com <br>
 Available under GNU General Public License version 3</small>
